@@ -5,7 +5,7 @@ BASE_HOA = {
 }
 
 
-def add_character(show, name)
+def add_character( name)
   add_character[show] + name.push
   show
   
