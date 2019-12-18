@@ -6,6 +6,13 @@ BASE_HOA = {
 
 
 def add_character(show, name)
+  add_character[show] + name.push
+  show
+  
+ # show = :key
+ # name = "new_elemnt"
+ # add_character[:key] << "new_element"
+  
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
