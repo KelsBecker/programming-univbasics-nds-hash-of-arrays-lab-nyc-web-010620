@@ -6,8 +6,9 @@ BASE_HOA = {
 
 
 def add_character(show, name)
- newArr = BASE_HOA[show].push(name)
- puts newArr
+
+
+ puts BASE_HOA[show]
  # show = :key
  # name = "new_elemnt"
  # add_character[:key] << "new_element"
